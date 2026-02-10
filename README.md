@@ -34,7 +34,7 @@ A responsive multi-page website for an interior design studio. The project focus
 
 ---
 
-## Project structure (high level)
+## Project structure
 
 ```text
 src/
